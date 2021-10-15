@@ -8,3 +8,10 @@ Recent state of the art models have advanced the Natural Language Processingfiel
 
 Find the Data here : https://drive.google.com/drive/folders/10R5UtBti16lFsOCV9lMukI_Q1dssnbEW?usp=sharing
 
+
+
+
+
+![SE architecture](https://user-images.githubusercontent.com/36505756/137472504-8d7186ff-8034-4100-bb1c-13e19b6643ac.png)
+
+                     Architecture of Span Extractor
